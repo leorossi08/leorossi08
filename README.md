@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there 👋, I am Leonardo Rossi Dourado  
+Welcome to my GitHub profile, hope you enjoy!
 
-<!--
-**leorossi08/leorossi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies and Tools
 
-Here are some ideas to get you started:
+### Data Science  
+- Python: more than 3 years of experience  
+- Experience with Scikit-learn, SpaCy, Pandas, Numpy, Matplotlib, PyTorch  
+- Experienced in ETL processes and model deployment  
+- Passionate about NLP and Machine Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Development  
+- JavaScript: occasional use  
+- Frontend: HTML, CSS  
+- Backend: Django, SpringBoot  
+- Mobile: React Native  
+
+### Other Technologies  
+- C and C++: more than 3 years of experience  
+- Java: CRUD applications  
+- Version Control: Git, GitHub, GitLab  
+- Databases: SQL, MySQL, PostgreSQL, Apache Derby  
+
+## 📚 Education  
+**UFSCar - Federal University of São Carlos**  
+Bachelor's Degree in Computer Engineering  
+**Expected Graduation:** December 2026  
+
+## 🌐 Experience and Activities  
+
+### Hyundai Motor Brasil – *Summer Intern in Maintenance - Smart Factory Innovation*  
+- Developed AI models for anomaly detection  
+*Jan 2025 – Feb 2025 | Piracicaba*  
+
+### Cati Jr. - UFSCar – *Product Owner, Scrum Master*  
+- Led agile software development projects  
+- Client engagement and coordination of dev teams  
+*Oct 2022 – May 2024 | São Carlos*  
+
+### Panda - UFSCar  
+- Member of the Data Science group focused on NLP and Machine Learning  
+
+### Scientific Initiation - USP  
+- Researcher at Infra Lab (USP), applying Machine Learning to tunnel data  
+*Apr 2024 – Jan 2025 | São Carlos / São Paulo*  
+
+## 🌍 Languages  
+- Portuguese: Native  
+- English: Advanced/Fluent  
+
+## 📞 Contact  
+- [LinkedIn](https://www.linkedin.com/in/leo-rossi-dourado/)  
+- Email: leonardorossi@estudante.ufscar.br
