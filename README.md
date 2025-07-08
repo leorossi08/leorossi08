@@ -13,7 +13,8 @@ Welcome to my GitHub profile, hope you enjoy!
 - JavaScript: occasional use  
 - Frontend: HTML, CSS  
 - Backend: Django, SpringBoot  
-- Mobile: React Native  
+- Mobile: React Native
+- React for Web Development too 
 
 ### Other Technologies  
 - C and C++: more than 3 years of experience  
