@@ -17,7 +17,7 @@ Welcome to my GitHub profile, hope you enjoy!
 - React for Web Development too 
 
 ### Other Technologies  
-- C and C++: more than 3 years of experience  
+- C and C++ 
 - Java: CRUD applications  
 - Version Control: Git, GitHub, GitLab  
 - Databases: SQL, MySQL, PostgreSQL, Apache Derby  
