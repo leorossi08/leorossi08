@@ -10,11 +10,17 @@ Welcome to my GitHub profile, hope you enjoy!
 - Passionate about NLP and Machine Learning  
 
 ### Web Development  
-- JavaScript: occasional use  
+- JavaScript and TypeScript
 - Frontend: HTML, CSS  
 - Backend: Django, SpringBoot  
 - Mobile: React Native
-- React for Web Development too 
+- React for Web Development too
+
+### Cloud and Automation
+- AWS Lambda, API Gateway, Athena
+- Power Automate
+- Docker
+
 
 ### Other Technologies  
 - C and C++ 
@@ -25,7 +31,6 @@ Welcome to my GitHub profile, hope you enjoy!
 ## 📚 Education  
 **UFSCar - Federal University of São Carlos**  
 Bachelor's Degree in Computer Engineering  
-**Expected Graduation:** December 2026  
 
 ## 🌐 Experience and Activities  
 
