@@ -36,6 +36,7 @@ Bachelor's Degree in Computer Engineering
 
 ### BTG Pactual - *IT Automation Intern*
 - Implemented IT solutions to enhance operational efficiency across the bank
+
 *Jul 2025 - Now | Remote*
 
 ### Hyundai Motor Brasil – *Summer Intern in Maintenance - Smart Factory Innovation*  
