@@ -40,16 +40,19 @@ Bachelor's Degree in Computer Engineering
 *Jul 2025 - Now | Remote*
 
 ### Hyundai Motor Brasil – *Summer Intern in Maintenance - Smart Factory Innovation*  
-- Developed AI models for anomaly detection  
+- Developed AI models for anomaly detection 
+ 
 *Jan 2025 – Feb 2025 | Piracicaba - SP*  
 
 ### Scientific Initiation - USP  
 - Researcher at Infra Lab (USP), applying Machine Learning to tunnel data  
+
 *Apr 2024 – Jan 2025 | Remote*
 
 ### Cati Jr. - UFSCar – *Product Owner, Scrum Master*  
 - Led agile software development projects  
 - Client engagement and coordination of dev teams  
+
 *Oct 2022 – May 2024 | São Carlos - SP*  
 
 ### Panda - UFSCar  
