@@ -1,68 +1,57 @@
-# Hi there 👋, I am Leonardo Rossi Dourado  
-Welcome to my GitHub profile, hope you enjoy!
+Welcome to my GitHub profile! Here is a showcase of my work and journey untill now. Hope you enjoy!
 
-## 🔧 Technologies and Tools
+---
 
-### Data Science  
-- Python: more than 3 years of experience  
-- Experience with Scikit-learn, SpaCy, Pandas, Numpy, Matplotlib, PyTorch  
-- Experienced in ETL processes and model deployment  
-- Passionate about NLP and Machine Learning 
+### 🎓 Education
 
-### Web Development  
-- JavaScript and TypeScript
-- Frontend: HTML, CSS  
-- Backend: Django, SpringBoot, APIs
-- Mobile: React Native
-- React for Web Development too
+**UFSCar - Federal University of São Carlos 🇧🇷 | Computer Engineering student**
+* Graduation expected in December 2026.
 
-### Cloud and Automation
-- AWS Lambda, API Gateway, Athena
-- Power Automate
-- Docker
+### 💼 Experience and Activities
 
+**BTG Pactual | IT Automation Intern** *Jul 2025 – Present | Remote / São Paulo* 
+* Automating internal bank processes using Python and the AWS ecosystem.
+* Developing full-stack solutions (React/Backend APIs) and validating requirements directly with clients to optimize efficiency.
 
-### Other Technologies  
-- C and C++ 
-- Java: CRUD applications  
-- Version Control: Git, GitHub, GitLab  
-- Databases: MySQL, PostgreSQL
+**Hyundai Motor Brazil | Summer Intern - Smart Factory Innovation** *Jan 2025 – Feb 2025 | Piracicaba - SP* 
+* Developed Machine Learning models for anomaly detection to drive data-driven preventive maintenance.
 
-## 📚 Education  
-**UFSCar - Federal University of São Carlos**  
-Bachelor's Degree in Computer Engineering  
+**University of São Paulo (USP) | Scientific Initiation Researcher** *Sep 2024 – Jan 2025 | Remote* 
+* Implemented predictive models for geotechnical convergence analysis, predicting tunnel deformations to guide structural reinforcements.
 
-## 🌐 Experience and Activities  
+**Cati Jr. | Product Owner & Scrum Master** *Oct 2022 – May 2024 | São Carlos - SP* 
+* Led agile teams and managed client relationships.
+* Negotiated projects representing 35% of the company's annual revenue.
 
-### BTG Pactual - *IT Automation Intern*
-- Implemented IT solutions to enhance operational efficiency across the bank
+---
 
-*Jul 2025 - Now | Remote*
+### 🔧 Technologies and Tools
 
-### Hyundai Motor Brasil – *Summer Intern in Maintenance - Smart Factory Innovation*  
-- Developed AI models for anomaly detection 
- 
-*Jan 2025 – Feb 2025 | Piracicaba - SP*  
+#### **Data Science & AI 🤖**
+* **Languages & Libs:** Python (3+ years), Pandas, Scikit-learn, NumPy, Matplotlib, PyTorch, SpaCy.
+* **Specializations:** Predictive Modeling, ETL processes, and NLP.
+* **High-Performance Computing:** C/C++ with NVIDIA CUDA for parallel applications.
 
-### Scientific Initiation - USP  
-- Researcher at Infra Lab (USP), applying Machine Learning to tunnel data  
+#### **Cloud & Automation ☁️**
+* **AWS Ecosystem:** Lambda, S3, Athena, SQS/SNS, EventBridge, API Gateway, CloudWatch.
+* **Automation:** UiPath, Power Automate, and custom Python/API integrations.
+* **DevOps:** Docker, Git, GitHub, GitLab.
 
-*Apr 2024 – Jan 2025 | Remote*
+#### **Web & Software Development 💻**
+* **Backend:** Java (Spring Boot), Python (FastAPI, Flask, Django).
+* **Frontend:** React, TypeScript, JavaScript, HTML5/CSS3.
+* **Mobile:** React Native.
+* **Databases:** PostgreSQL, MySQL.
 
-### Cati Jr. - UFSCar – *Product Owner, Scrum Master*  
-- Led agile software development projects  
-- Client engagement and coordination of dev teams  
+---
 
-*Oct 2022 – May 2024 | São Carlos - SP*  
+### 🌎 Languages
+* **Portuguese:** Native
+* **English:** Fluent
+* **Italian:** Beginner
 
-### Panda - UFSCar  
-- Member of the Data Science group focused on NLP and Machine Learning  
+---
 
-## 🌍 Languages  
-- Portuguese: Native  
-- English: Advanced/Fluent  
-- Italian: Beginner
-
-## 📞 Contact  
-- [LinkedIn](https://www.linkedin.com/in/leo-rossi-dourado/)  
-- Email: leonardorossi@estudante.ufscar.br
+### 📞 Contact
+* **Email:** [leonardorossi@estudante.ufscar.br](mailto:leonardorossi@estudante.ufscar.br)
+* **LinkedIn:** [leo-rossi-dourado](https://www.linkedin.com/in/leo-rossi-dourado)
