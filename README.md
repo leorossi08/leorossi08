@@ -34,12 +34,11 @@ Welcome to my GitHub profile! Here is a showcase of my work and journey untill n
 
 #### **Cloud & Automation ☁️**
 * **AWS Ecosystem:** Lambda, S3, Athena, SQS/SNS, EventBridge, API Gateway, CloudWatch.
-* **Automation:** UiPath, Power Automate, and custom Python/API integrations.
-* **DevOps:** Docker, Git, GitHub, GitLab.
+* **Automation:** UiPath and custom Python/API integrations.
 
 #### **Web & Software Development 💻**
-* **Backend:** Java (Spring Boot), Python (FastAPI, Flask, Django).
-* **Frontend:** React, TypeScript, JavaScript, HTML5/CSS3.
+* **Backend:** Java (Spring Boot), Python (FastAPI, Django).
+* **Frontend:** React, TypeScript, JavaScript, HTML/CSS
 * **Mobile:** React Native.
 * **Databases:** PostgreSQL, MySQL.
 
