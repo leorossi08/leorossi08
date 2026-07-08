@@ -19,6 +19,11 @@ Welcome to my GitHub profile! Here is a showcase of my work and journey untill n
 
 * Developed Machine Learning models for anomaly detection to drive data-driven preventive maintenance.
 
+  **Pandas UFSCar | Member** *Jun 2024 – Feb 2025*
+
+* Machine Learning and Data Science study group in university.
+* Development of comprehensive educational materials and presentations in Natural Language Processing.
+
 **University of São Paulo (USP) | Scientific Initiation Researcher** *Sep 2024 – Jan 2025 | Remote*
 
 * Implemented predictive models for geotechnical convergence analysis, predicting tunnel deformations to guide structural reinforcements.
