@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here is a showcase of my work and journey untill n
 
 ### 💼 Experience and Activities
 
-**BTG Pactual | IT Automation Intern** *Jul 2025 – Present | Remote / São Paulo*
+**BTG Pactual | IT Automation Intern** *Jul 2025 – Aug 2026 | Remote / São Paulo*
 
 * Automating internal bank processes using mostly Python and the AWS ecosystem.
 * Developing and maintaining full-stack solutions in production, including troubleshooting and iterating based on client feedback.
@@ -30,8 +30,8 @@ Welcome to my GitHub profile! Here is a showcase of my work and journey untill n
 
 **Cati Jr. | Product Owner & Scrum Master** *Oct 2022 – May 2024 | São Carlos - SP*
 
-* Led agile teams and managed client relationships.
-* Gathered and validated project requirements directly with clients, negotiating specs, deadlines, and pricing.
+Developed landing pages using WordPress and built relationships with clients.
+Prospected new clients, gathered requirements, negotiated deadlines, and pricing.
 
 ---
 
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! Here is a showcase of my work and journey untill n
 #### **Cloud & Automation**
 
 * **AWS Ecosystem:** Lambda, S3, Athena, SQS/SNS, EventBridge, API Gateway, CloudWatch.
-* **Containers & Orchestration:** Docker, Kubernetes.
+* **Containers & Orchestration:** Docker, Kubernetes (debugging/maintenance)
 * **Automation:** UiPath and custom Python/API integrations.
 
 #### **Software Development**
