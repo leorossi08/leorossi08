@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here is a showcase of my work and journey untill n
 
 ### 💼 Experience and Activities
 
-**BTG Pactual | IT Automation Intern** *Jul 2025 – Aug 2026 | Remote / São Paulo*
+**BTG Pactual | IT Automation Intern** *Jul 2025 – Sept. 2026 | Remote / São Paulo*
 
 * Automating internal bank processes using mostly Python and the AWS ecosystem.
 * Developing and maintaining full-stack solutions in production, including troubleshooting and iterating based on client feedback.
