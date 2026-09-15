@@ -13,7 +13,8 @@ Welcome to my GitHub profile! Here is a showcase of my work and journey untill n
 **BTG Pactual | IT Automation Intern** *Jul 2025 – Sept. 2026 | Remote / São Paulo*
 
 * Automating internal bank processes using mostly Python and the AWS ecosystem.
-* Developing and maintaining full-stack solutions in production, including troubleshooting and iterating based on client feedback.
+* Developing and maintaining full-stack solutions in production, taking ownership from initial client prospecting and requirements gathering to production deployment.
+* Troubleshot complex application problems and rewrote essential code to boost performance.
 
 **Hyundai Motor Brazil | Summer Intern - Smart Factory Innovation** *Jan 2025 – Feb 2025 | Piracicaba - SP*
 
